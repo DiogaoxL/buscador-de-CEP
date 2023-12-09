@@ -16,7 +16,8 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina.
    ```bash
    git clone https://github.com/seu-usuario/buscador-de-cep-react.git
    
-cd buscador-de-cep-react
+   ```bash
+   cd buscador-de-cep-react
 
 Baixe as dependências:
 npm install
@@ -35,3 +36,5 @@ npm install
 3. JavaScript
 4. React
 5. Axios
+
+
